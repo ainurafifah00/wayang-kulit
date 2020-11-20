@@ -22,3 +22,13 @@ for i in range(3):
 # git push origin master
 # git pull origin master
 # git clone (url)
+
+
+#Git Branches
+
+# git checkout -b (branchname)
+# git branch : list all branches/current branch
+# git add. , git commit -m
+# git push origin 'branchname'
+# git checkout 'mainbranch'
+# git merge 'branchname'
